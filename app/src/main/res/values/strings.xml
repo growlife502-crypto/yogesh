@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KitabSetu</string>
+    <string name="app_subtitle">English to Hindi Book Translator</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_translate">Translate</string>
+    <string name="nav_vocab">Vocabulary</string>
+    <string name="nav_settings">Settings</string>
+</resources>

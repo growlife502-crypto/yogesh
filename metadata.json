@@ -1,0 +1,6 @@
+{
+  "name": "KitabSetu - Book Translator",
+  "description": "English to Hindi book translation and bilingual parallel reader with PDF upload extraction, voice option text reading, instant vocabulary lookup, and classic books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
